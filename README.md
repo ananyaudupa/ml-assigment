@@ -1,12 +1,12 @@
 
 ---
-
+https://knnclassification09.netlify.app
 ## ▶️ How to Run
 
 1. Download/clone the repository
 2. Open `index.html` in any modern browser (Chrome/Firefox/Edge)
 3. Play with the slider and click to add points 🎨
-
+ 
 ---
 
 ## 📸 Screenshot
